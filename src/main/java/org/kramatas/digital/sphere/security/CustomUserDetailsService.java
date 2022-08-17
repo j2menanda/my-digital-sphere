@@ -1,8 +1,8 @@
 package org.kramatas.digital.sphere.security;
 
-import com.springboot.blog.entity.Role;
-import com.springboot.blog.entity.User;
-import com.springboot.blog.repository.UserRepository;
+import org.kramatas.digital.sphere.entity.Role;
+import org.kramatas.digital.sphere.entity.User;
+import org.kramatas.digital.sphere.repository.UserRepository;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

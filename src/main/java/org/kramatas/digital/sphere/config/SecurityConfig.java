@@ -1,8 +1,8 @@
 package org.kramatas.digital.sphere.config;
 
-import com.springboot.blog.security.CustomUserDetailsService;
-import com.springboot.blog.security.JwtAuthenticationEntryPoint;
-import com.springboot.blog.security.JwtAuthenticationFilter;
+import org.kramatas.digital.sphere.security.CustomUserDetailsService;
+import org.kramatas.digital.sphere.security.JwtAuthenticationEntryPoint;
+import org.kramatas.digital.sphere.security.JwtAuthenticationFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

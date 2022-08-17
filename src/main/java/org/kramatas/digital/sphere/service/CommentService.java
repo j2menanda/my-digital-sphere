@@ -1,6 +1,6 @@
 package org.kramatas.digital.sphere.service;
 
-import com.springboot.blog.payload.CommentDto;
+import org.kramatas.digital.sphere.payload.CommentDto;
 
 import java.util.List;
 

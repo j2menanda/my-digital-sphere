@@ -1,6 +1,6 @@
 package org.kramatas.digital.sphere.exception;
 
-import com.springboot.blog.payload.ErrorDetails;
+import org.kramatas.digital.sphere.payload.ErrorDetails;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

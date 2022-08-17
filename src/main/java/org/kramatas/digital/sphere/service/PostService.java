@@ -1,9 +1,7 @@
 package org.kramatas.digital.sphere.service;
 
-import com.springboot.blog.payload.PostDto;
-import com.springboot.blog.payload.PostResponse;
-
-import java.util.List;
+import org.kramatas.digital.sphere.payload.PostDto;
+import org.kramatas.digital.sphere.payload.PostResponse;
 
 public interface PostService {
     PostDto createPost(PostDto postDto);

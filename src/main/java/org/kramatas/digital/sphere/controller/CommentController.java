@@ -1,9 +1,9 @@
 package org.kramatas.digital.sphere.controller;
 
-import com.springboot.blog.payload.CommentDto;
-import com.springboot.blog.service.CommentService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
+import org.kramatas.digital.sphere.payload.CommentDto;
+import org.kramatas.digital.sphere.service.CommentService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
